@@ -1,0 +1,14 @@
+C:\Users\Ibrat Muminov\Documents\server\server\networking\networking.core\bin\Debug\net5.0\CoreNetworking.deps.json
+C:\Users\Ibrat Muminov\Documents\server\server\networking\networking.core\bin\Debug\net5.0\CoreNetworking.dll
+C:\Users\Ibrat Muminov\Documents\server\server\networking\networking.core\bin\Debug\net5.0\ref\CoreNetworking.dll
+C:\Users\Ibrat Muminov\Documents\server\server\networking\networking.core\bin\Debug\net5.0\CoreNetworking.pdb
+C:\Users\Ibrat Muminov\Documents\server\server\networking\networking.core\obj\Debug\net5.0\networking.core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ibrat Muminov\Documents\server\server\networking\networking.core\obj\Debug\net5.0\networking.core.AssemblyInfoInputs.cache
+C:\Users\Ibrat Muminov\Documents\server\server\networking\networking.core\obj\Debug\net5.0\networking.core.AssemblyInfo.cs
+C:\Users\Ibrat Muminov\Documents\server\server\networking\networking.core\obj\Debug\net5.0\networking.core.csproj.CoreCompileInputs.cache
+C:\Users\Ibrat Muminov\Documents\server\server\networking\networking.core\obj\Debug\net5.0\CoreNetworking.dll
+C:\Users\Ibrat Muminov\Documents\server\server\networking\networking.core\obj\Debug\net5.0\ref\CoreNetworking.dll
+C:\Users\Ibrat Muminov\Documents\server\server\networking\networking.core\obj\Debug\net5.0\CoreNetworking.pdb
+C:\Users\Ibrat Muminov\Documents\server\server\networking\networking.core\bin\Debug\net5.0\UnityEngine.dll
+C:\Users\Ibrat Muminov\Documents\server\server\networking\networking.core\bin\Debug\net5.0\UnityEngine.xml
+C:\Users\Ibrat Muminov\Documents\server\server\networking\networking.core\obj\Debug\net5.0\networking.core.csproj.CopyComplete

@@ -1,0 +1,8 @@
+C:\Users\Ibrat Muminov\Documents\server\server\networking\networking.net\bin\Debug\NetNetworking.dll
+C:\Users\Ibrat Muminov\Documents\server\server\networking\networking.net\bin\Debug\NetNetworking.pdb
+C:\Users\Ibrat Muminov\Documents\server\server\networking\networking.net\obj\Debug\networking.net.csproj.CoreCompileInputs.cache
+C:\Users\Ibrat Muminov\Documents\server\server\networking\networking.net\obj\Debug\NetNetworking.dll
+C:\Users\Ibrat Muminov\Documents\server\server\networking\networking.net\obj\Debug\NetNetworking.pdb
+C:\Users\Ibrat Muminov\Documents\server\server\networking\networking.net\bin\Debug\UnityEngine.dll
+C:\Users\Ibrat Muminov\Documents\server\server\networking\networking.net\bin\Debug\UnityEngine.xml
+C:\Users\Ibrat Muminov\Documents\server\server\networking\networking.net\obj\Debug\networking.net.csproj.CopyComplete
